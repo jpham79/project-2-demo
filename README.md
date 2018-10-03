@@ -87,7 +87,7 @@ More complex demo:
   </body>
 </html>
 ```
-![alt text](https://github.com/kirkwilson/project-3-demo/blob/master/optimization-step-one.png)
+![alt text](https://github.com/kirkwilson/project-2-demo/blob/master/optimization-step-one.png)
 ### Adding a truck
 Between ```<style>``` tags:
 ```
@@ -154,7 +154,7 @@ map.addLayer({
   }
 });
 ```
-![alt text](https://github.com/kirkwilson/project-3-demo/blob/master/optimization-step-two.png)
+![alt text](https://github.com/kirkwilson/project-2-demo/blob/master/optimization-step-two.png)
 ### Drop off locations
 ```
 // Create an empty GeoJSON feature collection for drop-off locations
@@ -206,7 +206,7 @@ function updateDropoffs(geojson) {
     .setData(geojson);
 }
 ```
-![alt text](https://github.com/kirkwilson/project-3-demo/blob/master/optimization-step-three.gif)
+![alt text](https://github.com/kirkwilson/project-2-demo/blob/master/optimization-step-three.gif)
 ### Build routes
 
 Same as last step:
@@ -360,7 +360,7 @@ map.addLayer({
 }, 'waterway-label');
 ```
 
-<https://kirkwilson.github.io/project-3-demo/index.html>
+<https://kirkwilson.github.io/project-2-demo/index.html>
 
 ## Georeference Imagery
 
@@ -400,6 +400,4 @@ var historicMap = new mapboxgl.Map({
 var map = new mapboxgl.Compare(streetsMap, historicMap)
 ```
 
-<https://kirkwilson.github.io/project-3-demo/index2.html>
-
-
+<https://kirkwilson.github.io/project-2-demo/index2.html>
