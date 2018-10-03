@@ -1,4 +1,6 @@
-# project-3-demo
+# project-2-demo
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/sRl6yWzZy8M/0.jpg)](http://www.youtube.com/watch?v=sRl6yWzZy8M)
 
 ## Optimized Route
 
